@@ -2,7 +2,7 @@
 
 A modern, full-stack payments application built with React, Vite, and Supabase. Send money securely between users with real-time balance updates and transaction tracking.
 
-![Dashboard](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-05-24%20at%201.08.57%E2%80%AFPM-UUb2AAw78oD4O694FgSceTpoJpfiiU.png)
+![Dashboard](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-06-08%20at%2000.50.31_39efeec0.jpg-6TVmHueD4DZ3Mt8R2QKhGWEFqNCPPs.jpeg)
 
 ## ✨ Features
 
@@ -25,17 +25,14 @@ A modern, full-stack payments application built with React, Vite, and Supabase. 
 
 ## 📸 Screenshots
 
-### Sign Up
-![Sign Up](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-05-24%20at%201.08.26%E2%80%AFPM-juPRkXu1tr4NgZ1B5vCRuDmOZBJa34.png)
+### Dashboard - Full Balance
+![Dashboard Full Balance](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-06-08%20at%2000.50.55_d3ffe8cf.jpg-6PoQ5pqeNm66bFPYUNvLnMSnTEdW2C.jpeg)
 
-### Sign In
-![Sign In](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-05-24%20at%201.08.19%E2%80%AFPM-Cq5VheJT5BjPEjM9mUUQQgJzUmoGll.png)
+### Dashboard - After Transfer
+![Dashboard After Transfer](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-06-08%20at%2000.50.31_39efeec0.jpg-6TVmHueD4DZ3Mt8R2QKhGWEFqNCPPs.jpeg)
 
-### Dashboard
-![Dashboard Clean](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-05-24%20at%201.08.38%E2%80%AFPM-Ccti9R2kavSjMA4JzcDLpq5qnwpbvw.png)
-
-### Send Money
-![Send Money](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-05-24%20at%201.09.10%E2%80%AFPM-qt7NYGjZcvxurmC9lFGH4uVd1jtbOw.png)
+### Send Money Interface
+![Send Money](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-06-08%20at%2000.50.45_892ae334.jpg-LD5un1ChHGi0MfC4qKbWMwYhLEsKZr.jpeg)
 
 ## 🛠️ Installation
 
@@ -241,25 +238,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com) for the utility-first CSS framework
 - [React](https://reactjs.org) for the powerful UI library
 - [Vite](https://vitejs.dev) for the lightning-fast build tool
-
-
-
----
-
-**Made with ❤️ by Tushar saini**
 ```
-
-This comprehensive README includes:
-
-✅ **Project overview** with features and tech stack  
-✅ **All your screenshots** embedded properly  
-✅ **Complete installation guide** with Supabase setup  
-✅ **Database schema** and SQL commands  
-✅ **Usage instructions** for end users  
-✅ **Project structure** explanation  
-✅ **Security features** highlighting  
-✅ **Deployment instructions** for Vercel  
-✅ **Contributing guidelines**  
-
-The README is professional, detailed, and will help anyone understand and set up your payments app!
 
