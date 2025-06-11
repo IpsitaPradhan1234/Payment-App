@@ -42,8 +42,7 @@ A modern, full-stack payments application built with React, Vite, and Supabase. 
 # Sign In
 ![Sign In](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-05-24%20at%201.08.19%E2%80%AFPM-Cq5VheJT5BjPEjM9mUUQQgJzUmoGll.png)
 
-# Dashboard
-![Dashboard Clean](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-05-24%20at%201.08.38%E2%80%AFPM-Ccti9R2kavSjMA4JzcDLpq5qnwpbvw.png)
+
 
 # Send Money
 ![Send Money](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-05-24%20at%201.09.10%E2%80%AFPM-qt7NYGjZcvxurmC9lFGH4uVd1jtbOw.png)
