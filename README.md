@@ -1,20 +1,20 @@
-# 💳 Payments App
+# Payments App
 
 A modern, full-stack payments application built with React, Vite, and Supabase. Send money securely between users with real-time balance updates and transaction tracking.
 
 ![Dashboard](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-06-08%20at%2000.50.31_39efeec0.jpg-6TVmHueD4DZ3Mt8R2QKhGWEFqNCPPs.jpeg)
 
-## ✨ Features
+# Features
 
-- 🔐 **Secure Authentication** - User registration and login with password hashing
-- 💰 **Real-time Wallet System** - Each user starts with $1000 balance
-- 🔍 **User Search** - Find other users by name or email
-- 💸 **Instant Money Transfers** - Send money between accounts with atomic transactions
-- 📊 **Live Balance Updates** - See your balance update in real-time
-- 🗄️ **Supabase Database** - Persistent data storage with PostgreSQL
-- 📱 **Responsive Design** - Works on desktop and mobile devices
+-  **Secure Authentication** - User registration and login with password hashing
+-  **Real-time Wallet System** - Each user starts with $1000 balance
+-  **User Search** - Find other users by name or email
+-  **Instant Money Transfers** - Send money between accounts with atomic transactions
+-  **Live Balance Updates** - See your balance update in real-time
+-  **Supabase Database** - Persistent data storage with PostgreSQL
+-  **Responsive Design** - Works on desktop and mobile devices
 
-## 🚀 Tech Stack
+# Tech Stack
 
 - **Frontend**: React 18, Vite, Tailwind CSS
 - **State Management**: Recoil
@@ -23,7 +23,7 @@ A modern, full-stack payments application built with React, Vite, and Supabase. 
 - **Routing**: React Router DOM
 - **Styling**: Tailwind CSS with gradient backgrounds
 
-## 📸 Screenshots
+# Screenshots
 
 ### Dashboard - Full Balance
 ![Dashboard Full Balance](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-06-08%20at%2000.50.55_d3ffe8cf.jpg-6PoQ5pqeNm66bFPYUNvLnMSnTEdW2C.jpeg)
@@ -34,25 +34,39 @@ A modern, full-stack payments application built with React, Vite, and Supabase. 
 ### Send Money Interface
 ![Send Money](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-06-08%20at%2000.50.45_892ae334.jpg-LD5un1ChHGi0MfC4qKbWMwYhLEsKZr.jpeg)
 
-## 🛠️ Installation
+---
 
-### Prerequisites
+# Sign Up
+![Sign Up](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-05-24%20at%201.08.26%E2%80%AFPM-juPRkXu1tr4NgZ1B5vCRuDmOZBJa34.png)
+
+# Sign In
+![Sign In](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-05-24%20at%201.08.19%E2%80%AFPM-Cq5VheJT5BjPEjM9mUUQQgJzUmoGll.png)
+
+# Dashboard
+![Dashboard Clean](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-05-24%20at%201.08.38%E2%80%AFPM-Ccti9R2kavSjMA4JzcDLpq5qnwpbvw.png)
+
+# Send Money
+![Send Money](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-05-24%20at%201.09.10%E2%80%AFPM-qt7NYGjZcvxurmC9lFGH4uVd1jtbOw.png)
+
+# 🛠️ Installation
+
+# Prerequisites
 - Node.js 16+ 
 - npm or yarn
 - Supabase account
 
-### 1. Clone the repository
+# 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/payments-app.git
 cd payments-app
 ```
 
-### 2. Install dependencies
+# 2. Install dependencies
 ```bash
 npm install
 ```
 
-### 3. Set up Supabase
+# 3. Set up Supabase
 
 1. Create a new project at [supabase.com](https://supabase.com)
 2. Go to Settings → API to get your keys
@@ -63,7 +77,7 @@ VITE_PUBLIC_SUPABASE_URL=your_supabase_project_url
 VITE_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 ```
 
-### 4. Set up the database
+# 4. Set up the database
 
 Run these SQL commands in your Supabase SQL Editor:
 
@@ -161,7 +175,7 @@ npm run dev
 
 Visit `http://localhost:5173` to see the app!
 
-## 🎯 How to Use
+   How to Use
 
 1. **Sign Up**: Create a new account with your email and password
 2. **Sign In**: Log in with your credentials
@@ -170,7 +184,7 @@ Visit `http://localhost:5173` to see the app!
 5. **Send Money**: Click "Send Money" next to any user and enter the amount
 6. **Track Transfers**: All transactions are recorded with unique transaction IDs
 
-## 🏗️ Project Structure
+   Project Structure
 
 ```
 src/
@@ -197,7 +211,7 @@ src/
     └── atoms.js
 ```
 
-## 🔒 Security Features
+   Security Features
 
 - **Password Hashing**: Passwords are securely hashed using SHA-256
 - **Input Validation**: All user inputs are validated on both client and server
@@ -205,7 +219,7 @@ src/
 - **Atomic Transactions**: Money transfers are atomic to prevent data inconsistency
 - **Balance Validation**: Prevents negative balances and invalid transfers
 
-## 🚀 Deployment
+   Deployment
 
 ### Deploy to Vercel
 
@@ -220,7 +234,7 @@ VITE_PUBLIC_SUPABASE_URL=your_production_supabase_url
 VITE_PUBLIC_SUPABASE_ANON_KEY=your_production_supabase_key
 ```
 
-## 🤝 Contributing
+   Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -228,15 +242,26 @@ VITE_PUBLIC_SUPABASE_ANON_KEY=your_production_supabase_key
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+  Acknowledgments
 
 - [Supabase](https://supabase.com) for the amazing backend-as-a-service
 - [Tailwind CSS](https://tailwindcss.com) for the utility-first CSS framework
 - [React](https://reactjs.org) for the powerful UI library
 - [Vite](https://vitejs.dev) for the lightning-fast build tool
+<<<<<<< HEAD
 ```
 
+=======
+
+
+
+
+
+
+
+
+>>>>>>> 18be577 (update readme)
